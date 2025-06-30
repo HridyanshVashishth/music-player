@@ -99,8 +99,5 @@ This project is open source under the [MIT License](https://opensource.org/licen
 
 > Designed with ❤️ by \[Hridyansh]
 
-```
-
----
 
 
